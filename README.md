@@ -8,3 +8,4 @@ Key Features:
 🔠 Uppercase & lowercase letters, numbers, special characters
 📱 Responsive design for all devices
 🖱️ Easy "Copy to clipboard" functionality
+Live demo: https://varsha830.github.io/Random-password-generator/
