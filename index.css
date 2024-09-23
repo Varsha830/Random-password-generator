@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -62,4 +63,7 @@ body{
     padding:16px 26px;
     border-radius: 5px;
     cursor: pointer;
+}
+button:hover{
+    color:#ff8567
 }
